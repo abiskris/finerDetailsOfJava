@@ -10,6 +10,6 @@ https://www.geeksforgeeks.org/difference-between-abstract-class-and-interface-in
 
 https://www.programiz.com/java-programming/nested-inner-class
 
-3. Anonymous clss
+3. Anonymous class
 
 https://www.programiz.com/java-programming/anonymous-class
