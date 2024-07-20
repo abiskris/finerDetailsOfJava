@@ -22,3 +22,7 @@ https://www.programiz.com/java-programming/nested-inner-class
 https://www.programiz.com/java-programming/anonymous-class
 
 [Anonymous Class](https://github.com/abiskris/javaPracticePrograms/blob/b2a4da3b7895f00b8ff0f931bac843b7ea64adb3/src/Polygon.java)
+
+4. final vs Effectively final
+
+[Baeldung article](https://www.baeldung.com/java-effectively-final)
