@@ -26,3 +26,8 @@ https://www.programiz.com/java-programming/anonymous-class
 4. final vs Effectively final
 
 [Baeldung article](https://www.baeldung.com/java-effectively-final)
+
+5. Enum class
+   
+[Programiz article](https://www.programiz.com/java-programming/enums)\
+[Enum class](https://github.com/abiskris/finerDetailsOfJava/blob/78479458aab4264e42bc840548c09032406bec25/src/Size.java)
