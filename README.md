@@ -35,4 +35,4 @@ Concepts in Java and OOPS.
 6. SOLID Principles
 
 [Design Principles and Design Patterns - Robert C.Martin (2000)](https://staff.cs.utu.fi/~jounsmed/doos_06/material/DesignPrinciplesAndPatterns.pdf)(Difficult read)\
-[Bealdung article](https://www.baeldung.com/solid-principles)
+[GFG article](https://www.geeksforgeeks.org/oop-design-principles-java-programmers/?ref=next_article)
